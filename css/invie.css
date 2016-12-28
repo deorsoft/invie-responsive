@@ -97,7 +97,7 @@ input:focus, textarea:focus{
 }
 
 .background{
-	background-image: url('../images/background.png');
+	background-image: url('../Images/background.png');
 	background-size: cover;
 }
 
@@ -621,7 +621,7 @@ video{
 
 @media screen and (-webkit-min-device-pixel-ratio: 2){
 	.background{
-		background-image: url('../images/background2x.png');
+		background-image: url('../Images/background2x.png');
 		/*background-size: cover;*/
 	}
 }
