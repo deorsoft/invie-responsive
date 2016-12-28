@@ -417,12 +417,26 @@ padding: 50px 10px;
 
 	.contacto{
 		margin: 0 auto;
+		display: block;
+	}
+
+	.contacto a{
+		display: block;
 	}
 
 	.formulario{
 		display: block;
 		margin: auto;
 		width: 300px;
+	}
+
+	.formulario label{
+		font-size: 20px;
+	}
+
+	.sexo label{
+		display: block;
+		font-size: 20px;
 	}
 	
 	.intereses label{
@@ -432,6 +446,10 @@ padding: 50px 10px;
 	
 	.col1{
 		margin: 0;
+	}
+
+	input[type="text"]{
+		margin-bottom: 30px;
 	}
 
 	input[type="text"],
